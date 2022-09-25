@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "demo",
-    "slug": "demo",
+    "name": "Tesla_Clone",
+    "slug": "Tesla-Clone",
+    "description":"My first react-native app...just some slide functionality",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo_tesla.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/tesla_clone_logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
